@@ -1,4 +1,4 @@
-## Generative AI - BAIL657C
+## Generative AI Lab
 
 - Please make sure that `python = 3.11`
 - Install required modules: <br>
